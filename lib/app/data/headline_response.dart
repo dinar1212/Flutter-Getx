@@ -70,4 +70,5 @@ class Data {
     data['content'] = this.content;
     return data;
   }
+  
 }
