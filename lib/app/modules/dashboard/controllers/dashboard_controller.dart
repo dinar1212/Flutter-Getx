@@ -56,4 +56,6 @@ class DashboardController extends GetxController {
   }
 
   void increment() => count.value++;
+
+  getJadwal() {}
 }
